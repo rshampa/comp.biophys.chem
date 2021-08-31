@@ -1,0 +1,30 @@
+---
+layout: post
+title: About Me 
+date: 2021-08-30 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+<!---img: workflow.jpg # Add image post (optional)---!>
+fig-caption: # Add figcaption (optional)
+---
+
+### Research Positions
+
+> Since Nov 2017, Research Scientist, Center for Computational Natural Sciences and Bioinformatics, IIIT Hyderabad, India
+
+> Apr 2014 - Dec 2015, Research Associate, Department of Chemistry, University of Basel, Switzerland
+
+> Jan 2010 - Oct 2012, Research Associate, Department of Chemistry, Technical University of Munich, Germany  
+
+### Education
+
+> Jul 2006 - Dec 2009, PhD in Natural Science, Institute for Theoretical Chemistry, University of Stuttgart, Germany
+
+> Aug 2004 - Jul 2006, MSc in Chemistry, Department of Chemistry, Indian Institute of Technology Madras, India 
+
+> Jun 2001 - Jul 2004, BSc in Chemistry, Rabindra Mahavidyalaya, The University of Burdwan, India 
+
+### Awards & Grants 
+
+> Women Scientists Scheme-A (WOS-A), Department of Science and Technology, Ministry of Science and Technology, Govt. of India
+
+> National Post Doctoral Fellowship (N-PDF), Science and Engineering Research Board, Department of Science and Technology, Govt. of India
