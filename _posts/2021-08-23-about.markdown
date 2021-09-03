@@ -17,7 +17,7 @@ fig-caption: # Add figcaption (optional)
 
 ### Education
 
-> Jul 2006 - Dec 2009, PhD in Natural Science, Institute for Theoretical Chemistry, University of Stuttgart, Germany
+> Jul 2006 - Dec 2009, PhD in Natural Sciences, Institute for Theoretical Chemistry, University of Stuttgart, Germany
 
 > Aug 2004 - Jul 2006, MSc in Chemistry, Department of Chemistry, Indian Institute of Technology Madras, India 
 
