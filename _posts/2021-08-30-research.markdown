@@ -37,6 +37,11 @@ My research activity broadly focuses toward a deeper understanding the structure
 
 > Water mediation at the dimerization interface of the insulin protein plays an ubiquitous feature, reducing direct protein-protein hydrogen bond contacts.
 
+### Protein Chemistry: Desolvation of Peptide Bond by O to S Substitution Impacts Protein Stability
+![Insulin]({{site.baseurl}}/assets/img/thiopept.png)
+
+> Chemical alteration (O to S) of amide bonds in proteins (peptides) reduces the microenvironment polarity leading to favorable vdW interaction and increased H-bond strength that might be proximal/distal to the modification site, eventually affecting the protein stability.
+
 ### Protein Chemistry: Cosolvent Effects on Protein Denaturation
 ![Cosolvent]({{site.baseurl}}/assets/img/cosol.png)
 
