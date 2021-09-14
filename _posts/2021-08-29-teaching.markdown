@@ -10,10 +10,10 @@ img: teaching.pdf # Add image post (optional)
 
 >[Lecture Slides][mms].
 
-[mms]: https://scholar.google.com/citations?user=UixZ91AAAAAJ&hl=en
+[mms]: https://github.com/rshampa/MMS-SC2.316.S21
 
 ### Academic Year 2020-2021, MC-610, NIPER Hyderabad
 
 >[Lecture Slides][est].
 
-[est]: https://scholar.google.com/citations?user=UixZ91AAAAAJ&hl=en
+[est]: https://github.com/rshampa/MC-610
