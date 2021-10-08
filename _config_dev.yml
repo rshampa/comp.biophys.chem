@@ -1,6 +1,6 @@
 title: Shampa Raghunathan
 description: > # this means to ignore newlines until "baseurl:"
-  Research Scientist, DST
+  Assistant Professor
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /repo_name
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Shampa Raghunathan # add your name
 author-img: rshampa.jpg # add your photo
-about-author: I am a scientist. My primary area of research is multiscale modelling and simulations of physicochemical processes in biology and chemistry deploying composite computational chemistry and machine learning methods. # add description
+about-author: My primary area of research is multiscale modelling and simulations of physicochemical processes in biology and chemistry deploying composite computational chemistry and machine learning methods. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-orcid: 0000-0002-8872-4411 # add your ORCiD handle

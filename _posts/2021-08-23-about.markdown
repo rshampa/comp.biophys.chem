@@ -7,9 +7,13 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 fig-caption: # Add figcaption (optional)
 ---
 
+### Assistant Professor 
+
+> Joined the Department of Chemistry, Mahindra University, Hyderabad, India in October 2021 
+
 ### Research Positions
 
-> Since Nov 2017, Research Scientist, Center for Computational Natural Sciences and Bioinformatics, IIIT Hyderabad, India
+> Oct 2017 - Sep 2021, Research Scientist, Center for Computational Natural Sciences and Bioinformatics, IIIT Hyderabad, India
 
 > Apr 2014 - Dec 2015, Research Associate, Department of Chemistry, University of Basel, Switzerland
 
