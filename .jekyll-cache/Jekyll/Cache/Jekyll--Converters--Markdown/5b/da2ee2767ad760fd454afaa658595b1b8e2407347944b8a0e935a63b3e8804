@@ -1,0 +1,62 @@
+I"<p>My research activity broadly focuses toward a deeper understanding the structure-function relationship of bio(molecules), and mechanism of action, thermodynamic and kinetic insights of physicochemical processes in gas-phase as well as in condensed-phase spanning multiple time and length scales, calculating atomistic details applying the force field approach to the high-level electronic details using the quantum chemical methods.</p>
+
+<h2 id="chemical-reaction-dynamics">Chemical Reaction Dynamics</h2>
+
+<h3 id="machine-learning-force-fields-mlff">Machine Learning Force Fields (MLFF)</h3>
+<p><img src="/assets/img/mlff.png" alt="MLFF" /></p>
+
+<blockquote>
+  <p>An ML model is trained using an arbitrary set of data points which are the inputs for the ML method that outputs the reconstructed force fields and the potential energy surface (PES).</p>
+</blockquote>
+
+<h3 id="aimd-detection-of-planar-tetracoordinated-transition-state">AIMD Detection of Planar Tetracoordinated Transition State</h3>
+<p><img src="/assets/img/ptx.png" alt="Zeolite" /></p>
+
+<blockquote>
+  <p>Racemization between two tetrahedral forms via planar transition state is realized in sub-picosecond time scale.</p>
+</blockquote>
+
+<h3 id="zeolite-catalysis-by-qmmm-modelling">Zeolite Catalysis by QM/MM Modelling</h3>
+<p><img src="/assets/img/qmmm_zeo.png" alt="Zeolite" /></p>
+
+<blockquote>
+  <p>Adsorptions of dioxygen and benzene to Cu-zeolite are studied through structural, energetical, and spectroscopic analyses, and elementary steps of catalytic conversion of benzene to phenol using dioxygen are proposed.</p>
+</blockquote>
+
+<h3 id="watson-crick-wc-like-tautomerization-pathways-in-rna-by-qmmm-modelling">Watson-Crick (WC)-like Tautomerization Pathways in RNA by QM/MM Modelling</h3>
+<p><img src="/assets/img/rna_qmmm.png" alt="RNA" /></p>
+
+<blockquote>
+  <p>Reaction pathways of guanine-uracil enolic tautomerization from wobble geometry are investigated using various theoretical methods: quantum mechanics (QM), molecular dynamics (MD), and combined quantum mechanics/molecular mechanics (QM/MM).</p>
+</blockquote>
+
+<h2 id="biophysical-interactions">Biophysical Interactions</h2>
+
+<h3 id="protein-chemistry-interfacial-water-determining-the-structure-and-dynamics-of-insulin-dimer">Protein Chemistry: Interfacial Water Determining the Structure and Dynamics of Insulin Dimer</h3>
+<p><img src="/assets/img/inswat.png" alt="Insulin" /></p>
+
+<blockquote>
+  <p>Water mediation at the dimerization interface of the insulin protein plays an ubiquitous feature, reducing direct protein-protein hydrogen bond contacts.</p>
+</blockquote>
+
+<h3 id="protein-chemistry-desolvation-of-peptide-bond-by-o-to-s-substitution-impacts-protein-stability">Protein Chemistry: Desolvation of Peptide Bond by O to S Substitution Impacts Protein Stability</h3>
+<p><img src="/assets/img/thiopept.png" alt="Insulin" /></p>
+
+<blockquote>
+  <p>Chemical alteration (O to S) of amide bonds in proteins (peptides) reduces the microenvironment polarity leading to favorable vdW interaction and increased H-bond strength that might be proximal/distal to the modification site, eventually affecting the protein stability.</p>
+</blockquote>
+
+<h3 id="protein-chemistry-cosolvent-effects-on-protein-denaturation">Protein Chemistry: Cosolvent Effects on Protein Denaturation</h3>
+<p><img src="/assets/img/cosol.png" alt="Cosolvent" /></p>
+
+<blockquote>
+  <p>Atomistic molecular dynamics simulations are performed for proteins/side chain models in explicit solvent to characterize the nature of interactions between solvent and solute systems. Solvation free energies are computed in various solvent environments ranging from pure water to water/urea or water/TMAO (binary) to water/urea/TMAO (ternary) solutions.</p>
+</blockquote>
+
+<h3 id="distributed-charge-model-dcm">Distributed Charge Model (DCM)</h3>
+<p><img src="/assets/img/dcm.png" alt="DCM" /></p>
+
+<blockquote>
+  <p>Models are developed using computational chemistry methods in order to advance our understanding on macroscopic properties of complex atomic systems in condensed-phase.</p>
+</blockquote>
+:ET

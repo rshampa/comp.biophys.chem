@@ -7,9 +7,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 fig-caption: # Add figcaption (optional)
 ---
 
-### Assistant Professor 
+### Assistant Professor
 
-> Joined the Department of Chemistry, Mahindra University, Hyderabad, India in October 2021 
+> École Centrale School of Engineering<br> Mahindra University<br> Hyderabad 500043<br> India
 
 ### Research Positions
 
