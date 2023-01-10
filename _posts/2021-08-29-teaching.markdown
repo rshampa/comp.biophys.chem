@@ -1,0 +1,23 @@
+---
+layout: post
+title: Teaching 
+date: 2021-08-30 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: teaching.pdf # Add image post (optional)
+---
+
+### CH 1101 (Fall): Quantum Mechanics and Molecular Spectroscopy, Mahindra University, Hyderabad
+
+>.
+
+### January-April 2021: Molecular Modelling and Simulations, IIIT Hyderabad
+
+>[Lecture Slides][mms].
+
+[mms]: https://github.com/rshampa/MMS-SC2.316.S21
+
+### Academic Year 2020-2021, MC-610, NIPER Hyderabad
+
+>[Lecture Slides][est].
+
+[est]: https://github.com/rshampa/MC-610

@@ -1,0 +1,34 @@
+---
+layout: post
+title: About Me 
+date: 2021-08-30 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+<!---img: workflow.jpg # Add image post (optional)---!>
+fig-caption: # Add figcaption (optional)
+---
+
+### Assistant Professor 
+
+> Joined the Department of Chemistry, Mahindra University, Hyderabad, India in October 2021 
+
+### Research Positions
+
+> Oct 2017 - Sep 2021, Research Scientist, Center for Computational Natural Sciences and Bioinformatics, IIIT Hyderabad, India
+
+> Apr 2014 - Dec 2015, Research Associate, Department of Chemistry, University of Basel, Switzerland
+
+> Jan 2010 - Oct 2012, Research Associate, Department of Chemistry, Technical University of Munich, Germany  
+
+### Education
+
+> Jul 2006 - Dec 2009, PhD in Natural Sciences, Institute for Theoretical Chemistry, University of Stuttgart, Germany
+
+> Aug 2004 - Jul 2006, MSc in Chemistry, Department of Chemistry, Indian Institute of Technology Madras, India 
+
+> Jun 2001 - Jul 2004, BSc in Chemistry, Rabindra Mahavidyalaya, The University of Burdwan, India 
+
+### Awards & Grants 
+
+> Women Scientists Scheme-A (WOS-A), Department of Science and Technology, Ministry of Science and Technology, Govt. of India
+
+> National Post Doctoral Fellowship (N-PDF), Science and Engineering Research Board, Department of Science and Technology, Govt. of India
